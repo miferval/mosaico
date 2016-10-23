@@ -1,6 +1,6 @@
 {
     "name": "mosaico",
-    "description": "framework for mosaico enterprises",
+    "description": "framework for mosaico web framework",
     "require": {
         "php": ">=5.3.0",
         "aura/router": "2.2.0",
